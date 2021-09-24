@@ -1,19 +1,12 @@
-h1 {
-  color: pink;
-  text-align: center;
-}
-
-h2 {
-  text-align: center;
-}
-
-h3 {
-  text-align: center;
-}
 body {
   padding: 25px;
 }
 
 footer {
+  text-align: center;
+}
+
+.hero {
+  background-color: #f9f7fe;
   text-align: center;
 }
