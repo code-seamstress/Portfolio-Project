@@ -36,8 +36,11 @@ footer {
 
 .btn-branding {
   background: #6c63ff;
+  color: white;
   border-radius: 4px;
-
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
 }
 
 .insta {
