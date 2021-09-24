@@ -1,7 +1,17 @@
 :root {
   --branding-color: #6c63ff;
+  --heading-font-family: "Playfair Display", serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black; 
+  font-family: var(--heading-font-family)
+}
 h1 {
   font-size: 96px;
   font-family: "Playfair Display";
