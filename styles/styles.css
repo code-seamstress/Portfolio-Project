@@ -21,12 +21,10 @@ h6 {
 }
 h1 {
   font-size: 96px;
-  font-family: "Playfair Display";
+  
 }
 
-body {
-  padding: 25px;
-}
+
 
 p {
   font-family: "Poppins", sans-serif;
@@ -36,7 +34,7 @@ footer {
 }
 
 .hero {
-  background-color: var(--secondary-color)
+  background: var(--secondary-color)
   text-align: center;
   padding: 160px 20px;
 }
