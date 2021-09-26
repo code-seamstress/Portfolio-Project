@@ -77,3 +77,9 @@ footer {
 .project-description {
   padding: 120px 60px;
 }
+
+@media (max-width) {
+  .project-description {
+    padding: 0;
+  }
+}
