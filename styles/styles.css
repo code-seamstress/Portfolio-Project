@@ -100,3 +100,7 @@ footer {
   font-size: 30px;
   line-height: 1.5;
 }
+.about-section p {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+}
