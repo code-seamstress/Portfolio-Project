@@ -107,7 +107,7 @@ footer {
 .content-container h1 {
   font-size: 64px;
   line-height: 80px;
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
 }
 
 .content-container h2 {
