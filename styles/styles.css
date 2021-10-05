@@ -106,8 +106,11 @@ footer {
     display: inline;
     list-style: none;
     line-height: 44px;
+    margin-left: 15px;
   }
-
+  nav a {
+    text-decoration: none;
+  }
   .content-container {
     text-align: center;
     padding: 0;
