@@ -51,9 +51,6 @@ footer .social-links a {
   color: black;
 }
 
-footer .social-links:hover {
-  color: #55a8b3;
-}
 .hero {
   background: var(--secondary-color);
   text-align: center;
