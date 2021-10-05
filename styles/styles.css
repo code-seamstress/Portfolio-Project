@@ -104,7 +104,7 @@ footer {
   }
   nav li {
     display: inline;
-    list-style: none;
+    list-style-type: none;
     line-height: 44px;
     margin-left: 15px;
   }
