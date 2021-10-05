@@ -95,6 +95,19 @@ footer {
   h2 {
     font-size: 44px;
   }
+  nav {
+    padding: 20px 0;
+  }
+  nav ul {
+    padding: 0;
+    margin: 0;
+  }
+  nav li {
+    display: inline;
+    list-style: none;
+    line-height: 44px;
+  }
+
   .content-container {
     text-align: center;
     padding: 0;
@@ -125,5 +138,4 @@ footer {
 }
 .content p {
   font-size: 14px;
-  
 }
