@@ -101,10 +101,12 @@ footer {
   nav ul {
     padding: 0;
     margin: 0;
+    list-style: none;
+    display: inline;
   }
   nav li {
     display: inline;
-    list-style-type: none;
+
     line-height: 44px;
     margin-left: 15px;
   }
