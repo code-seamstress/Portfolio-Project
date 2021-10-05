@@ -53,7 +53,7 @@ footer .social-links a {
   font-size: 26px;
   border-radius: 50%;
 }
-footer.social-links a:hover {
+footer .social-links a:hover {
   color: white;
   background: #55a8b3;
 }
