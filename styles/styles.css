@@ -68,10 +68,7 @@ footer .social-links a {
   border-radius: 20%;
   text-align: center;
 }
-footer .social-links a:hover {
-  color: white;
-  background: #55a8b3;
-}
+
 .hero {
   background: rgb(241, 237, 237);
   text-align: center;
