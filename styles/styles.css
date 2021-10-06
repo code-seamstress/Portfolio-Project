@@ -65,7 +65,7 @@ footer .social-links a {
   color: black;
   padding: 10px 14px;
   font-size: 22px;
-  border-radius: 50%;
+  border-radius: 20%;
   text-align: center;
 }
 footer .social-links a:hover {
